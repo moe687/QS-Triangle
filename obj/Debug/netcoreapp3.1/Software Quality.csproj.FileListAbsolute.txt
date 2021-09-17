@@ -1,0 +1,5 @@
+C:\Users\ma hmood\source\repos\Software Quality\obj\Debug\netcoreapp3.1\Software Quality.csproj.AssemblyReference.cache
+C:\Users\ma hmood\source\repos\Software Quality\obj\Debug\netcoreapp3.1\Software Quality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma hmood\source\repos\Software Quality\obj\Debug\netcoreapp3.1\Software Quality.AssemblyInfoInputs.cache
+C:\Users\ma hmood\source\repos\Software Quality\obj\Debug\netcoreapp3.1\Software Quality.AssemblyInfo.cs
+C:\Users\ma hmood\source\repos\Software Quality\obj\Debug\netcoreapp3.1\Software Quality.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software Quality", "Software Quality.csproj", "{AD31764C-3080-4AC6-9FEF-A7717A6C0D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QS Triangle", "..\QS Triangle\QS Triangle.csproj", "{814C377C-0C93-46B8-987C-6B1B690F4B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD31764C-3080-4AC6-9FEF-A7717A6C0D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD31764C-3080-4AC6-9FEF-A7717A6C0D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD31764C-3080-4AC6-9FEF-A7717A6C0D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD31764C-3080-4AC6-9FEF-A7717A6C0D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814C377C-0C93-46B8-987C-6B1B690F4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814C377C-0C93-46B8-987C-6B1B690F4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814C377C-0C93-46B8-987C-6B1B690F4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814C377C-0C93-46B8-987C-6B1B690F4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA46F35E-A678-4EF2-8D8F-F11FE57CDC84}
+	EndGlobalSection
+EndGlobal
