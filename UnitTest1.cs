@@ -15,6 +15,9 @@ namespace Software_Quality
 
             double area = obj.area(5);
             Assert.AreEqual(78.539815, area);
+
+            int angle = obj.missingAngle(37, 24);
+            Assert.AreEqual(10, angle);
         }
     }
 }
