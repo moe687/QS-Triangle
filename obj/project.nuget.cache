@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejJfT6LiBsNVP2ySTtvsp1bFt1XJJUW1qmGoxWM2GiG0LMi5YNBljIDcFeMAY2JrQqGl3HvRGnEFV5ORvnas2A==",
+  "dgSpecHash": "8RvFJhoE+R+2X2UAYKN0Rnsj05KdUgkBkzIv+95Z7O7zxErywTvOMihd/MvAfv0IPX15bfnl8w63I3mLEytp/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ma hmood\\source\\repos\\Software Quality\\Software Quality.csproj",
+  "projectFilePath": "C:\\Users\\ma hmood\\source\\repos\\SoftwareQuality\\Software Quality.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ma hmood\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\ma hmood\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

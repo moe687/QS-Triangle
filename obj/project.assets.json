@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ma hmood\\source\\repos\\Software Quality\\Software Quality.csproj",
+      "projectUniqueName": "C:\\Users\\ma hmood\\source\\repos\\SoftwareQuality\\Software Quality.csproj",
       "projectName": "Software Quality",
-      "projectPath": "C:\\Users\\ma hmood\\source\\repos\\Software Quality\\Software Quality.csproj",
+      "projectPath": "C:\\Users\\ma hmood\\source\\repos\\SoftwareQuality\\Software Quality.csproj",
       "packagesPath": "C:\\Users\\ma hmood\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ma hmood\\source\\repos\\Software Quality\\obj\\",
+      "outputPath": "C:\\Users\\ma hmood\\source\\repos\\SoftwareQuality\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ma hmood\\AppData\\Roaming\\NuGet\\NuGet.Config",
