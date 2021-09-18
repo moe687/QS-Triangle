@@ -14,7 +14,7 @@ namespace Software_Quality
             Assert.AreEqual(125, hypotenuse);
 
             double area = obj.area(5);
-            Assert.AreEqual(6, area);
+            Assert.AreEqual(78.539815, area);
         }
     }
 }
