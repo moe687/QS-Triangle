@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriangleNameSpace;
+
 namespace Software_Quality
 {
     [TestClass]
@@ -10,8 +11,10 @@ namespace Software_Quality
         {
             Triangle obj = new Triangle();
             int hypotenuse = obj.hypotenuse(10, 5);
-
             Assert.AreEqual(125, hypotenuse);
+
+            double area = obj.area(5);
+            Assert.AreEqual(6, area);
         }
     }
 }
